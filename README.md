@@ -42,3 +42,5 @@ Syntax highlighted code block
 ![   ](/4K_WG2tTOomxZ4BjRK.jpg)
 ![   ](/4K_RxMtH0ElKawmD98.jpg)
 ![   ](/4K_Ibnt81jyGQ6OpL0.jpg)
+![hatake vinay sunshine 0723](/AnimeX_605599.jpeg)
+![uchiha uzumaki 0701 0611](/AnimeX_614751.jpeg)
