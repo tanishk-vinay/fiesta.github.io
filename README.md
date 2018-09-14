@@ -33,8 +33,8 @@ Syntax highlighted code block
 
 # Wallpapers
 ![___](http://wallpaperswide.com/download/world_manipulation_by_pacolix-wallpaper-1280x720.jpg)
-![   ](/4K_Ff03A1cZkl6hYpv.jpg)
-![   ](/4K_J3HvQ4nTPouWXGe.jpg)
+![   ](/4K_Ff03A1cZkl6hYpv.jpg =640x)
+![   ](/4K_J3HvQ4nTPouWXGe.jpg =640x)
 ![   ](/4K_pAM5PZRdSOYkTxQ.jpg)
 ![   ](/4K_AUar6i7RogPCxzk.jpg)
 ![   ](/4K_jrVwkLovIyXuzZn.jpg)
