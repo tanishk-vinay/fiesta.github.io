@@ -4,9 +4,7 @@ Hello There!!!!! This is a rookie developer.......
 ### Just Started.......
 
 
-# I intend to make it a library.
-[Harry Potter series](/Harry Potter 1-7.zip)
-[The Fault in our Stars](/The Fault In Our Stars.pdf)
+
 
 # Wallpapers
 ![ ](http://wallpaperswide.com/download/gears_of_war_3_marcus-wallpaper-1920x1080.jpg)
