@@ -4,10 +4,11 @@
 This is "TANISHK VINAY" trying out Git Hub web page designing
 This page is dedicated to
 1.Wallpapers
-2. e-books
-and more to be added...
+2.e-books
+
+And more to be added...
 ## I intend to create a library here
-# SHARE THIS PAGE'S LINK AND ENCOURAGE ME
+## SHARE THIS PAGE'S LINK AND ENCOURAGE ME
 CONSTRUCTIVE CRITISM ALWAYS WELCOMED!
 
 ### LETS GET STARTED
